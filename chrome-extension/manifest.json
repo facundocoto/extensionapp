@@ -1,0 +1,6 @@
+{
+  "name": "Facundo Coto Extension",
+  "description": "Extension chrome for personal use",
+  "version": "1.0",
+  "manifest_version": 2
+}
